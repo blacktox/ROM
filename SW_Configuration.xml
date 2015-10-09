@@ -1,0 +1,16 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-G800H</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>G800HOXY</CSCName>
+	<CSCVersion>1BOI2</CSCVersion>
+	<NbCustomer>5</NbCustomer>
+	<CustomerData src="/Customer/XEO/customer.xml" />
+	<CustomerData src="/Customer/SER/customer.xml" />
+	<CustomerData src="/Customer/SEK/customer.xml" />
+	<CustomerData src="/Customer/CAC/customer.xml" />
+	<CustomerData src="/Customer/SKZ/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>
