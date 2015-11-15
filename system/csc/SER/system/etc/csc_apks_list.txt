@@ -1,4 +1,0 @@
-/system/app/Afisha_v2.3.7_r3_samsung/Afisha_v2.3.7_r3_samsung.apk
-/system/app/Awad-release228-10061/Awad-release228-10061.apk
-/system/app/mobileyandex-xhdpi-release_3.13(1647)/mobileyandex-xhdpi-release_3.13(1647).apk
-/system/app/WorldatArms_FULL_Samsung_Galaxy_S5_Mini_L_NONIGP_SSHP_ML_MP_IAP_102_AA75/WorldatArms_FULL_Samsung_Galaxy_S5_Mini_L_NONIGP_SSHP_ML_MP_IAP_102_AA75.apk

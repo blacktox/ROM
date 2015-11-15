@@ -1,4 +1,0 @@
-/system/app/homebank.kz_3.0.9/homebank.kz_3.0.9.apk
-/system/app/kino-android_03_04/kino-android_03_04.apk
-/system/app/KolesaKz_2014_03_03/KolesaKz_2014_03_03.apk
-/system/app/mobileyandex-xhdpi-release/mobileyandex-xhdpi-release.apk
