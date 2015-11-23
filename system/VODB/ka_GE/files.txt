@@ -1,3 +1,0 @@
-ka_GE-ak-cur.lite.res	02dca138845714708a567973fe64a0e4	544123
-ka_GE.lang	8a971bcffedbfbc409ecb35140051a28	4125
-ka_GE-lk-text.lite.res	94629f75d7e6a0cf0c8dcf86a673a725	4674152

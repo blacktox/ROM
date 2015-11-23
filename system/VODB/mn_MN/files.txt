@@ -1,3 +1,0 @@
-mn_MN-ak-cur.lite.res	2b8df74b8183703fa7bcac12f86a5f22	580035
-mn_MN.lang	48be0239b0918f784c0c02f25f4952b4	4124
-mn_MN-lk-text.lite.res	eb508c62e8e5500fd20c3961c9c461b9	3072360
