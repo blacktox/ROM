@@ -10,7 +10,7 @@ ro.build.version.all_codenames=REL
 ro.build.version.release=5.1.1
 ro.build.date=Fri Sep 18 14:56:50 KST 2015
 ro.build.date.utc=1442555810
-ro.build.type=userdebug
+ro.build.type=user
 ro.build.user=dpi
 ro.build.host=SWHD7305
 ro.build.tags=release-keys
@@ -229,11 +229,4 @@ ro.gps.agps_provider=1
 ro.pip.gated=0
 ro.build.aapt.config.prefer=xhdpi
 ro.build.version.sdl=2202
-
-# Extra
-ro.securestorage.knox=false
-ro.security.mdpp.ux=Disabled
-security.mdpp.result=None
-security.mdpp=None
-wlan.wfd.hdcp=disable
 
