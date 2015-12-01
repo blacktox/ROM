@@ -4,13 +4,14 @@
 	<PublicName>SM-G800H</PublicName>
 	</MobileData>
 	<CustomerDataSet>
-	<CSCName>G800HOXY</CSCName>
-	<CSCVersion>1BOI2</CSCVersion>
-	<NbCustomer>5</NbCustomer>
-	<CustomerData src="/Customer/XEO/customer.xml" />
-	<CustomerData src="/Customer/SER/customer.xml" />
-	<CustomerData src="/Customer/SEK/customer.xml" />
-	<CustomerData src="/Customer/CAC/customer.xml" />
-	<CustomerData src="/Customer/SKZ/customer.xml" />
+	<CSCName>G800HODD</CSCName>
+	<CSCVersion>1BOI3</CSCVersion>
+	<NbCustomer>6</NbCustomer>
+	<CustomerData src="/Customer/INU/customer.xml" />
+	<CustomerData src="/Customer/INS/customer.xml" />
+	<CustomerData src="/Customer/BNG/customer.xml" />
+	<CustomerData src="/Customer/SLK/customer.xml" />
+	<CustomerData src="/Customer/NPL/customer.xml" />
+	<CustomerData src="/Customer/TML/customer.xml" />
 	</CustomerDataSet>
 </SW-Configuration>

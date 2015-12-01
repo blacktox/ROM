@@ -1,4 +1,0 @@
-3
-ru.yandex.searchplugin
-com.gameloft.android.GloftWAMF
-ru.yandex.searchplugin

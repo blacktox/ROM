@@ -1,15 +1,29 @@
 ﻿<?xml  version="1.0" encoding="UTF-8" ?>
 <SamsungMobileFeauture>
   <Version>ED001</Version>
+  <Country>INDIA</Country>
+  <CountryISO>IN</CountryISO>
+  <SalesCode>INU</SalesCode>
   <FeatureSet>
     <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
-    <CscFeature_SIP_EnablePreferredEnglishTypeAsUS>TRUE</CscFeature_SIP_EnablePreferredEnglishTypeAsUS>
-    <CscFeatureRILSetDefaultTimezoneWithoutNITZ>TRUE</CscFeatureRILSetDefaultTimezoneWithoutNITZ>
-    <CscFeature_Contact_FullCountryPrefixSearchSupport>TRUE</CscFeature_Contact_FullCountryPrefixSearchSupport>
-    <CscFeature_Setting_UninstallablePackageListInHidden>com.samsung.docapp</CscFeature_Setting_UninstallablePackageListInHidden>	
-    <CscFeature_Contact_FullCountryPrefixSearchSupport>TRUE</CscFeature_Contact_FullCountryPrefixSearchSupport>
-    <CscFeature_Camera_CameraFlicker>50hz</CscFeature_Camera_CameraFlicker>
-	<CscFeature_Camera_EnableCameraDuringCall>FALSE</CscFeature_Camera_EnableCameraDuringCall>
+    <CscFeature_Framework_EnableHarfbuzz>TRUE</CscFeature_Framework_EnableHarfbuzz>
+    <CscFeature_FMRadio_RecordingVolumeAs>11</CscFeature_FMRadio_RecordingVolumeAs>
+    <CscFeature_Web_EnableAutoSimHomeUrlInProfile>FALSE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
+    <CscFeature_RIL_SupportUssdWithSharpChar>TRUE</CscFeature_RIL_SupportUssdWithSharpChar>
+    <CscFeature_RIL_EnableRoamingIcon4NationalRoaming>TRUE</CscFeature_RIL_EnableRoamingIcon4NationalRoaming>
+    <CscFeature_RIL_IgnoreNitzNetworkName>TRUE</CscFeature_RIL_IgnoreNitzNetworkName>
+    <CscFeature_RIL_CurrentPlmnIndCheck>true</CscFeature_RIL_CurrentPlmnIndCheck>
+    <CscFeature_RIL_EnableCallBarringConnectToUssd>TRUE</CscFeature_RIL_EnableCallBarringConnectToUssd>
     <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+    <CscFeature_RIL_ConfigWbamr>2G</CscFeature_RIL_ConfigWbamr>
+    <CscFeature_Web_DisableMostVisitedHomepage>TRUE</CscFeature_Web_DisableMostVisitedHomepage>
+    <CscFeature_SNote_AddOnFontConfig>SWA</CscFeature_SNote_AddOnFontConfig>
+    <CscFeature_VoiceCall_TunnigCallWaitingToneAs>60</CscFeature_VoiceCall_TunnigCallWaitingToneAs>
+    <CscFeature_VoiceCall_DisableGeoDescription>TRUE</CscFeature_VoiceCall_DisableGeoDescription>
+    <CscFeature_Message_ConfigImeiTracker>+919560345888</CscFeature_Message_ConfigImeiTracker>
+    <CscFeature_Contact_RemoveActionBarTitle>TRUE</CscFeature_Contact_RemoveActionBarTitle>
+	<CscFeature_SyncML_SwUpdateActionDuringRoaming>roaminginfo</CscFeature_SyncML_SwUpdateActionDuringRoaming>
+	<CscFeature_Setting_ReplaceLabel4DualSim>Smart dual SIM</CscFeature_Setting_ReplaceLabel4DualSim>
+	<CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
   </FeatureSet>
 </SamsungMobileFeauture>

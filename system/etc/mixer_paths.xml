@@ -664,7 +664,7 @@
 
 	<path name="voice-call-sub-mic">
 		<path name="sub-mic" />
-		<ctl name="ADC3 Volume" value="12" />
+		<ctl name="ADC3 Volume" value="10" />
 		<ctl name="DEC1 Volume" value="84" />
 		<ctl name="TX3 HPF cut off" value="MIN_3DB_150Hz" />
 		<ctl name="TX4 HPF cut off" value="MIN_3DB_150Hz" />
@@ -844,7 +844,7 @@
 
 	<path name="video-call-sub-mic">
 		<path name="sub-mic" />
-		<ctl name="ADC3 Volume" value="12" />
+		<ctl name="ADC3 Volume" value="10" />
 		<ctl name="DEC1 Volume" value="84" />
 	</path>
 
