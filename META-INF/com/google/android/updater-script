@@ -1,5 +1,5 @@
 ui_print("****************************************");
-ui_print("********* s5port Rom v16.2 **********");
+ui_print("********* s5port Rom v16.3 **********");
 ui_print("****************************************");
 ui_print("********  FULL S5 Mini PORT  ********");
 ui_print("****************************************");
@@ -14,7 +14,7 @@ delete_recursive("/system");
 
 
 show_progress(1.0, 3135);
-ui_print("Installing s5port Rom v16.2..");
+ui_print("Installing s5port Rom v16.3..");
 package_extract_dir("system", "/system");
 
 if getprop("ro.product.device") == "ms013g"
